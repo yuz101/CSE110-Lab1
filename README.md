@@ -48,11 +48,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - [Jacab School of Engineering](https://jacobsschool.ucsd.edu/research)/[Psychology Department](https://psychology.ucsd.edu/research-areas/index.html)/[Cognitive Science Department Research](https://cogsci.ucsd.edu/research/index.html) with Professors: Other departments are constantly seeking people who have knowledge in coding.
 
 ## Program
-[https://ersp.eng.ucsd.edu/](#ESRP)
+[https://ersp.eng.ucsd.edu/](# ESRP)
 
 Eligibility Requirements:
 - [ ] Be in your first year at UCSD at the time of application (i.e. spring 2019 for the 2019/20 cohort).  Note this does not imply freshman standing, simply being in your first year at the university, regardless of whether you entered from high school or transferred from another college or university.
 
 - [ ] Not have completed any courses in the CSE upper division at the end of the spring quarter that precedes the program year (i.e. spring 2019 for the 2019/20 cohort).
 
-- [ ] Be in a CSE major in the CSE department. 
+- [ ] Be in a CSE major in the CSE department.
+
+[https://aip.ucsd.edu/](# Academic internship Program)
