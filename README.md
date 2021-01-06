@@ -38,9 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # CSE-related Opportunities @ UCSD
 
-- **Research**
-- **Program**
-- [**other**](#other)
+- [**Research**](#research)
+- [**Program**](#program)
+- [**Other**](#other)
 
 ## Research
 - [REAL Portal](https://real-app.ucsd.edu/opportunities):
@@ -64,4 +64,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 The Academic Internship Program allows students to integrate academic theory and ‘real world' practice, engage in research that explores the relationship between the two, and gain hands-on experience in professional settings.
 
 ## Other
-- Jacaob School of Engineering Co-op
+- [Jacaob School of Engineering Co-op](https://jacobsschool.ucsd.edu/cap/co-op)
