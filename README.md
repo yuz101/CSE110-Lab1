@@ -58,3 +58,4 @@ Eligibility Requirements:
 - [ ] Be in a CSE major in the CSE department.
 
 [https://aip.ucsd.edu/](#Academic-internship-Program)
+![Image](https://aip.ucsd.edu/_homepage-internals/homepage-sample/banner-home.png)
