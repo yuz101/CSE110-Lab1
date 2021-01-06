@@ -40,4 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## University of California, San Diego Undergraduate
 ### Major: Mathematics & Computer Science
 ![Profile](/Users/yuruzhou/Downloads/LinkedIn_Profile.jpeg)
+
 [LinkedIn](https://www.linkedin.com/in/yuz101/)
+[Github](https://github.com/yuz101)
