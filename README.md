@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 - **Research**
 - **Program**
-- **Other**
+- [**other**](#other)
 
 ## Research
 - [REAL Portal](https://real-app.ucsd.edu/opportunities):
@@ -51,15 +51,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   - Other departments are constantly seeking people who have knowledge in coding.
 
 ## Program
-[https://ersp.eng.ucsd.edu/](# ESRP)
+- [ESRP](https://ersp.eng.ucsd.edu/home)
+  Eligibility Requirements:
+  - [ ] Be in your first year at UCSD at the time of application (i.e. spring 2019 for the 2019/20 cohort).  Note this does not imply freshman standing, simply being in your first year at the university, regardless of whether you entered from high school or transferred from another college or university.
 
-Eligibility Requirements:
-- [ ] Be in your first year at UCSD at the time of application (i.e. spring 2019 for the 2019/20 cohort).  Note this does not imply freshman standing, simply being in your first year at the university, regardless of whether you entered from high school or transferred from another college or university.
+  - [ ] Not have completed any courses in the CSE upper division at the end of the spring quarter that precedes the program year (i.e. spring 2019 for the 2019/20 cohort).
 
-- [ ] Not have completed any courses in the CSE upper division at the end of the spring quarter that precedes the program year (i.e. spring 2019 for the 2019/20 cohort).
+  - [ ] Be in a CSE major in the CSE department.
 
-- [ ] Be in a CSE major in the CSE department.
-
-[https://aip.ucsd.edu/](#academic-internship-program)
+[Academic Internship Program](https://aip.ucsd.edu/)
 > ![Image](https://aip.ucsd.edu/_homepage-internals/homepage-sample/banner-home.png)
 The Academic Internship Program allows students to integrate academic theory and ‘real world' practice, engage in research that explores the relationship between the two, and gain hands-on experience in professional settings.
+
+## Other
+- Jacaob School of Engineering Co-op
