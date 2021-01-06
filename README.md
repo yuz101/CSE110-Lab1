@@ -60,7 +60,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
   - [ ] Be in a CSE major in the CSE department.
 
-[Academic Internship Program](https://aip.ucsd.edu/)
+- [Academic Internship Program](https://aip.ucsd.edu/)
 > ![Image](https://aip.ucsd.edu/_homepage-internals/homepage-sample/banner-home.png)
 The Academic Internship Program allows students to integrate academic theory and ‘real world' practice, engage in research that explores the relationship between the two, and gain hands-on experience in professional settings.
 
