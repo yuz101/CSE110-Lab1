@@ -52,6 +52,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Program
 - [ESRP](https://ersp.eng.ucsd.edu/home)
+
   Eligibility Requirements:
   - [ ] Be in your first year at UCSD at the time of application (i.e. spring 2019 for the 2019/20 cohort).  Note this does not imply freshman standing, simply being in your first year at the university, regardless of whether you entered from high school or transferred from another college or university.
 
