@@ -43,9 +43,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - **Other**
 
 ## Research
-- [REAL Portal](https://real-app.ucsd.edu/opportunities): The REAL Portal offers `research`, `internship`, `international`, `service learning`, `entrepreneurial`, `leadership`, and `other co-curricular` opportunities.
-- [CSE Department Research](https://cse.ucsd.edu/faculty-research) with Professors: Students have the opportunity to interact with faculty as course `teaching assistants`, `tutors and readers`, as `graduate and undergraduate research assistants` and through faculty mentoring.
-- [Jacab School of Engineering](https://jacobsschool.ucsd.edu/research)/[Psychology Department](https://psychology.ucsd.edu/research-areas/index.html)/[Cognitive Science Department Research](https://cogsci.ucsd.edu/research/index.html) with Professors: Other departments are constantly seeking people who have knowledge in coding.
+- [REAL Portal](https://real-app.ucsd.edu/opportunities):
+  - The REAL Portal offers `research`, `internship`, `international`, `service learning`, `entrepreneurial`, `leadership`, and `other co-curricular` opportunities.
+- [CSE Department Research](https://cse.ucsd.edu/faculty-research) with Professors:
+  - Students have the opportunity to interact with faculty as course `teaching assistants`, `tutors and readers`, as `graduate and undergraduate research assistants` and through faculty mentoring.
+- [Jacab School of Engineering](https://jacobsschool.ucsd.edu/research)/[Psychology Department](https://psychology.ucsd.edu/research-areas/index.html)/[Cognitive Science Department Research](https://cogsci.ucsd.edu/research/index.html) with Professors:
+  - Other departments are constantly seeking people who have knowledge in coding.
 
 ## Program
 [https://ersp.eng.ucsd.edu/](# ESRP)
