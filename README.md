@@ -48,4 +48,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - [Jacab School of Engineering](https://jacobsschool.ucsd.edu/research)/[Psychology Department](https://psychology.ucsd.edu/research-areas/index.html)/[Cognitive Science Department Research](https://cogsci.ucsd.edu/research/index.html) with Professors: Other departments are constantly seeking people who have knowledge in coding.
 
 ## Program
-[https://ersp.eng.ucsd.edu/] (#ERSP(Early Research Scholars Program UCSD))
+[https://ersp.eng.ucsd.edu/](#ERSP)(Early Research Scholars Program UCSD)
