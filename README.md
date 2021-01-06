@@ -1,3 +1,3 @@
 # CSE110-Lab1
 Yuru Zhou's User Page
-My favoriate programming language is Java
+My favoriate programming language is Python
