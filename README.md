@@ -38,9 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # CSE-related Opportunities @ UCSD
 
-- Research
-- Program
-- Other
+- *Research*
+- *Program*
+- *Other*
 
 ## Research
 - REAL Portal
