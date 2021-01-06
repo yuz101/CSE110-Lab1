@@ -45,3 +45,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## Research
 - [REAL Portal](https://real-app.ucsd.edu/opportunities): The REAL Portal offers research, internship, international, service learning, entrepreneurial, leadership, and other co-curricular opportunities.
 - [CSE Department Research](https://cse.ucsd.edu/faculty-research) with Professors: Students have the opportunity to interact with faculty as course teaching assistants, tutors and readers, as graduate and undergraduate research assistants and through faculty mentoring.
+- [Physiology/Cognitive Science] Department Research with Professors: Other departments are constantly seeking people who have knowledge in coding.
