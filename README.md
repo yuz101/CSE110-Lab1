@@ -39,4 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # Yuru Zhou
 ## University of California, San Diego Undergraduate
 ### Major: Mathematics & Computer Science
-![Image](/Users/yuruzhou/Downloads/LinkedIn_Profile.jpeg)
+![Profile](/Users/yuruzhou/Downloads/LinkedIn_Profile.jpeg)
+[LinkedIn](https://www.linkedin.com/in/yuz101/)
