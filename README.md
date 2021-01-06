@@ -61,4 +61,5 @@ Eligibility Requirements:
 - [ ] Be in a CSE major in the CSE department.
 
 [https://aip.ucsd.edu/](#Academic-internship-Program)
+> The Academic Internship Program allows students to integrate academic theory and ‘real world' practice, engage in research that explores the relationship between the two, and gain hands-on experience in professional settings.
 ![Image](https://aip.ucsd.edu/_homepage-internals/homepage-sample/banner-home.png)
