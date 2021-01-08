@@ -66,4 +66,4 @@ The Academic Internship Program allows students to integrate academic theory and
 
 ## Other
 - [Jacaob School of Engineering Co-op](https://jacobsschool.ucsd.edu/cap/co-op)
-![Image](~/image_copo)
+![Image](/image_copo)
